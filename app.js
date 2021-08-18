@@ -1,3 +1,4 @@
+// minus buttons
 var minus = document.getElementById('minus')
 minus.addEventListener('click', function () {
 
@@ -58,7 +59,7 @@ function updateNumber(id) {
 
 
 
-
+// plus buttons
 
 
 
